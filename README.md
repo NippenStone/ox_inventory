@@ -8,7 +8,7 @@ Experimental support for [qb-core](https://github.com/qbcore-framework/qb-core) 
 
 # Config
 
-Refer to the [documentation](https://overextended.github.io/docs/ox_inventory/) setting your config.
+Refer to the [documentation]() setting your config.
 When set, you can add the following to your 'server.cfg'
 
 ```
